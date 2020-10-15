@@ -1,0 +1,14 @@
+
+{ 
+
+background-color: 
+}
+header, nav, article, footer {
+
+     border:10xp solid black;
+     text-align:center; 
+
+     background-color: gray;
+     
+     margin: 5px
+}
