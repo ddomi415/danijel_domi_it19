@@ -1,0 +1,7 @@
+#rektangeln {
+    width: 5rem;
+    height: 5rem;
+    border: 3px solid green;
+    color: green;
+    background-color: wheat;
+}

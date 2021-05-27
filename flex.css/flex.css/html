@@ -1,0 +1,55 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Startsida</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="shortcut icon" type="image/jpg" href="randino.jpg"/>
+
+
+    <style>
+      
+    
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Startsida</h1>
+    </header>
+    <section>
+        <nav>
+         
+            <ul>
+               
+                <a href="tim.html">Tim Bernes Lee</a>
+
+                <a href="flexbox.html" >Flex-Box</a>
+                
+                <a href="galleri.html">Galleri</a>
+                
+               
+            </ul>
+        </nav>
+        </section>
+    <section>
+       
+        <article>
+            <h2>Tillämpad programmering</h2>
+            <p>Tillämpad programmering är ett ämne där vi lär oss om html och css.</p>
+            
+        </article>
+          
+        <aside>
+            <h2>Programmering</h2>
+
+            <p>Programmering är ett ämne där vi lär oss om javascript och html. </p>    
+        </aside>    
+    </section>
+    <footer>
+        <h2>Danijel Domi</h2>
+    </footer>
+</body>
+</html> 

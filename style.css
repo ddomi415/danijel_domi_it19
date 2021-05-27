@@ -1,0 +1,50 @@
+body{
+    /*background-image:url("back.png");
+    background-repeat:;
+    background-size:100%;*/
+}
+p {
+    text-align: center;
+    color: grey;
+
+}
+header,nav,section,footer {
+    border: 1xp solid black;
+    background:lightgray;
+    margin:;
+    opacity:0,8;
+    width: 80%;
+    margin: auto;
+}
+/* nav wrapper*/
+.wrapper {
+    display: flex;
+}
+
+/*navstyle*/
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    width: 100%;
+    display: block;
+
+}
+li a {
+    text-decoration: none;
+    display: block;
+    background: darkgrey;
+    text-align: center;
+
+}
+li a:hover{
+    background: grey;
+    color: black;
+}
+a{
+    color: white;
+    padding: 5xp;
+    
+}
